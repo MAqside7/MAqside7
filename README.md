@@ -104,5 +104,5 @@ if __name__ == "__main__":
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=150&section=header&text=DATABASE_ENCRYPTED&fontSize=40&fontColor=00FF41&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=120&section=footer&text=MAQSIDE7%20TERMINAL%20ACTIVE&fontSize=35&fontColor=00FF41&animation=fadeIn" />
 </p>
