@@ -40,7 +40,7 @@ System_Core:
 ---
 
 ### 🚀 [ ACTIVE_OPERATIONS_LOG ]
-<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF41&width=600&height=50&lines=🔓_RESEARCHING_ZERO-DAY_EXPLOITS...;🛠_DEVELOPING_CYBER-KEY_GENERATOR_V1.0;🔐_ENCRYPTING_ALL_DATA_STREAMS...;⚡_MAINTAINING_ABSOLUTE_CIPHER_BLOCK..." /> </p>
+<p align="left"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&width=550&lines=%F0%9F%94%93_ANALYZING_ZERO-DAY_VULNERABILITIES...;%F0%9F%9B%A0_DEVELOPING_CYBER-KEY_GENERATOR_V1.0;%F0%9F%94%90_ENCRYPTING_ALL_DATA_STREAMS...;%E2%9A%A1_MAINTAINING_ABSOLUTE_CIPHER_BLOCK..." alt="Typing SVG" /> </a> </p>
 
 ### 📈 [ QUANTUM_ANALYTICS ]
 
