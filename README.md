@@ -102,6 +102,7 @@ if __name__ == "__main__":
 
 ---
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Matrix.gif" width="100%" alt="Matrix Rain">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=150&section=header&text=DATABASE_ENCRYPTED&fontSize=40&fontColor=00FF41&animation=twinkling" />
 </p>
