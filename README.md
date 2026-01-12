@@ -67,7 +67,7 @@ $ ssh MAqside7@mainframe.encrypted.network --port 2222
 > Authenticating...
 > Access Level: OMEGA
 > Initiating secure data transfer.
-> Running: Cyber-Key-Generator_v2.0.exec
+> Running: ....
 ```
 
 <p align="center">
