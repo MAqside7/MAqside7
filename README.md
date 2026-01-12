@@ -103,5 +103,5 @@ if __name__ == "__main__":
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWE5eWR4dzdzc2Vvdm93MHFzN2l6ejU0cGJiaHgzbW40aDZqa2ZzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2MkTtUjYVvL9gk/giphy.gif" width="100%" alt="Matrix Code Rain">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Matrix.gif" width="100%" alt="Matrix Rain">
 </p>
