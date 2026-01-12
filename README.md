@@ -40,16 +40,7 @@ System_Core:
 ---
 
 ### 🚀 [ ACTIVE_OPERATIONS_LOG ]
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=00FF41&width=600&lines=🔓_Initiating_zero-day_vulnerability_research...;🛠_Developing_next-gen_Cyber-Key_Generator...;⚡_Optimizing_critical_systems_for_quantum_resistance...;📡_Securing_decentralized_networks_worldwide..." />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trident91/Trident91/master/assets/line-neon.gif" width="100%">
-</p>
-
----
+<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF41&width=600&height=50&lines=🔓_RESEARCHING_ZERO-DAY_EXPLOITS...;🛠_DEVELOPING_CYBER-KEY_GENERATOR_V1.0;🔐_ENCRYPTING_ALL_DATA_STREAMS...;⚡_MAINTAINING_ABSOLUTE_CIPHER_BLOCK..." /> </p>
 
 ### 📈 [ QUANTUM_ANALYTICS ]
 
