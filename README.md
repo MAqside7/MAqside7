@@ -103,6 +103,14 @@ if __name__ == "__main__":
 ---
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=120&section=footer&text=MAQSIDE7%20TERMINAL%20ACTIVE&fontSize=35&fontColor=00FF41&animation=fadeIn" />
-</p>
+[SYSTEM]: Инициализация протокола выхода...
+[STATUS]: Все системы MAqside7 работают в штатном режиме.
+[INFO]: Данные зашифрованы алгоритмом AES-256.
+[LOG]: Сессия завершена. Ожидание следующего подключения...
+
+###########################################################
+#                                                         #
+#   M A T R I X   E N T R Y   P O I N T :   A C T I V E   #
+#                                                         #
+###########################################################
+<p align="center"> <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=footer&text=%E2%96%A0%20MAQSIDE7%20%E2%96%A0&fontSize=30&fontColor=00FF41" /> </p>
