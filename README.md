@@ -103,14 +103,17 @@ if __name__ == "__main__":
 ---
 
 
-[SYSTEM]: Инициализация протокола выхода...
-[STATUS]: Все системы MAqside7 работают в штатном режиме.
-[INFO]: Данные зашифрованы алгоритмом AES-256.
-[LOG]: Сессия завершена. Ожидание следующего подключения...
-
-###########################################################
-#                                                         #
-#   M A T R I X   E N T R Y   P O I N T :   A C T I V E   #
-#                                                         #
-###########################################################
-<p align="center"> <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=footer&text=%E2%96%A0%20MAQSIDE7%20%E2%96%A0&fontSize=30&fontColor=00FF41" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=>>>ABSOLUTE_CIPHER_BLOCK<<<;SYSTEM_IS_PROTECTED;NO_ENTRY_WITHOUT_KEY" /> </p>
+.                                            .
+        .   .                                        .   .
+      .       .           [ ENCRYPTED ]            .       .
+    .           .________________________________.           .
+    |           |                                |           |
+    |           |    A B S O L U T E             |           |
+    |           |    C I P H E R   B L O C K     |           |
+    |           |________________________________|           |
+    .           .                                .           .
+      .       .                                    .       .
+        .   .                                        .   .
+          .                                            .
+<p align="center"> <img src="https://capsule-render.vercel.app/render?type=venom&color=00FF41&height=100&section=footer&text=MAQSIDE7%20CORE%20PROTOCOL&fontSize=25" /> </p>       
