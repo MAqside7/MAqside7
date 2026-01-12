@@ -103,3 +103,31 @@ if __name__ == "__main__":
 
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=>>>ABSOLUTE_CIPHER_BLOCK<<<;SYSTEM_IS_PROTECTED;NO_ENTRY_WITHOUT_KEY" /> </p>
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=---++SYSTEM+ACCESS++---;ACCESS+LEVEL:+OMEGA+ROOT;STATUS:+OPERATING+AT+PERFECTION" alt="Typing SVG" />
+
+  <br>
+
+  <table border="0">
+    <tr>
+      <td bgcolor="#1A1B27">
+        <code style="color: #32CD32; font-size: 1.2em;">
+          <b>[ HOST ]:</b> MAqside7 <br>
+          <b>[ ROLE ]:</b> Official Root User & Elite Developer <br>
+          <b>[ DEPT ]:</b> High-end Cybersecurity Expert <br>
+          <b>[ TASK ]:</b> Kernel exploitation & Advanced system architecture <br>
+          <b>[ MODE ]:</b> Perfection_Protocol_v2.0
+        </code>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Security-ULTRA-blueviolet?style=flat-square&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kernel-BREACH_READY-green?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logic-SYMMETRICAL-8A2BE2?style=flat-square&logo=probot&logoColor=white" />
+
+</div>
